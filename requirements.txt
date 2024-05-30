@@ -1,0 +1,2 @@
+# The script (rockpaperscissors.py) does not use any external libraries or dependencies beyond the standard library.
+# There are no requirements, so the file is left empty intentionally and not included in the Dockerfile.
